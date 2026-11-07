@@ -2,7 +2,7 @@
 
 公开 Agent Skills 的收录与实践目录。记录一个技能能做什么、由谁维护、应该去哪里阅读和使用。
 
-博客入口：[Skill Hub](https://cs-wude.github.io/skills.html)（页面开发中，随博客发布后可访问）。
+博客入口：[Skill Hub](https://cs-wude.github.io/skills.html)。
 
 ## 公开来源
 
@@ -24,6 +24,6 @@
 
 ## 如何更新博客目录
 
-博客的唯一目录数据源位于 [CS-wude.github.io/data/skills.js](https://github.com/CS-wude/CS-wude.github.io/blob/main/data/skills.js)（随博客代码发布）。添加名称、中文用途、分类、作者、来源链接与标签，然后在博客仓库执行 `npm test` 和 `npm run build`。
+博客的唯一目录数据源位于 [CS-wude.github.io/data/skills.js](https://github.com/CS-wude/CS-wude.github.io/blob/main/data/skills.js)。添加名称、中文用途、分类、作者、来源链接与标签，然后在博客仓库执行 `npm test` 和 `npm run build`。
 
 目录由构建生成静态 HTML，访客可直接打开来源。浏览器只做搜索与筛选，不读取 GitHub API，也不使用 Issues 同步。
