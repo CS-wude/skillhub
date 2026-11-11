@@ -17,7 +17,8 @@
 
 ## 自己维护的 Skills
 
-`skills/` 用于逐项加入决定公开的原创技能，目前尚未收录可安装的原创技能。不要把模板当作已完成的技能安装。
+- [Wude Video Studio](./skills/wude-video-studio/)：免费知识视频制作工作流，覆盖课程设计、分镜、动画、配音字幕、质检交付与归档。
+- [原创技能完整索引](./skills/README.md)
 
 - [技能写作模板](./templates/SKILL.md.example)
 - [收录与贡献说明](./CONTRIBUTING.md)

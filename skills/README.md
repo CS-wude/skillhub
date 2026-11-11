@@ -1,3 +1,7 @@
-# 原创技能目录
+# WUDE Skills 索引
 
-此处用于后续收录 WUDE 决定公开维护的 Skills。当前没有可安装的原创技能；外部技能链接见仓库首页。新增目录前先填写 `templates/SKILL.md.example` 并提供验证记录。
+| 技能 | 用途 | 入口 |
+| --- | --- | --- |
+| Wude Video Studio | 免费知识视频的设计、制作、质检交付与归档 | [使用说明](./wude-video-studio/) · [SKILL.md](./wude-video-studio/SKILL.md) |
+
+[返回仓库首页](../README.md)
