@@ -18,6 +18,7 @@
 ## 自己维护的 Skills
 
 - [Wude Video Studio](./skills/wude-video-studio/)：免费知识视频制作工作流，覆盖课程设计、分镜、动画、配音字幕、质检交付与归档。
+- [Wude Story Video V2](./skills/wude-story-video/)：免费原创三维剧情短片流程，覆盖故事因果、角色表演、镜头调度、连续性、音画同步与可编辑交付。
 - [原创技能完整索引](./skills/README.md)
 
 - [技能写作模板](./templates/SKILL.md.example)
